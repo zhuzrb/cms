@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app04
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# cms
+用vue做的看点资讯精选（新闻发布系统） 
+>>>>>>> ceea17da893a4a74250cc3d14194c8afefaf5163
